@@ -1,10 +1,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/example-note</loc>
+    <loc>https://notes.akashgoswami.dev/example-note</loc>
     <lastmod>2025-03-17T13:24:29.125Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
+    <loc>https://notes.akashgoswami.dev/golang/golang-resources</loc>
+    <lastmod>2025-03-17T23:21:13.975Z</lastmod>
+  </url><url>
+    <loc>https://notes.akashgoswami.dev/</loc>
     <lastmod>2025-03-17T13:23:16.526Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/kubernetes</loc>
-    <lastmod>2025-03-17T13:24:43.898Z</lastmod>
+    <loc>https://notes.akashgoswami.dev/kubernetes/Kubernetes-Beginner-to-Pro-Course</loc>
+    <lastmod>2025-03-17T23:21:19.092Z</lastmod>
+  </url><url>
+    <loc>https://notes.akashgoswami.dev/kubernetes/Kubernetes</loc>
+    <lastmod>2025-03-17T23:21:19.093Z</lastmod>
   </url></urlset>
